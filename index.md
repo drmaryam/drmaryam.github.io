@@ -1,12 +1,7 @@
-[About Me](https://www.maryamkhaqan.com/home){: .btn .btn-outline }[Research](https://www.maryamkhaqan.com/research){: .btn .btn-outline }[Teaching](https://www.maryamkhaqan.com/teaching){: .btn .btn-outline }
-
-
-<img src="home/4d554c66845df9770a60c2219b88054b.jpg" alt="About Me"/>
-<img src="home/f57810fcb9c0cbf2e92d2492b837a06c.jpg" alt="Maryam Khaqan" width="30%"/>
 
 Access notes for my Group representation Theory class here: 
 
-1. [Lecture 1](./New Folder/)
+1. [Maryam](Khaqan_CIRTL Completion Fall 201960.pdf)
 2. [Lecture 2](Khaqan-ResearchStatement-October.pdf)
 
 
