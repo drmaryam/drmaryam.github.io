@@ -7,6 +7,7 @@
 Access notes for my Group representation Theory class here: 
 
 1. [Lecture 1](Khaqan-ResearchStatement-23September2020.pdf)
+2. [Lecture 2](Khaqan-ResearchStatement-October.pdf)
 
 
 I am a postdoctoral research fellow on [Wushi Goldring](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fwushijig%2F&sa=D&sntz=1&usg=AFQjCNGdk-RBDiY9wUGPf13_oxu0lQdpzw)'s team in the [Department of Mathematics](https://www.google.com/url?q=https%3A%2F%2Fwww.math.su.se%2Fenglish%2F&sa=D&sntz=1&usg=AFQjCNEfIyHsmBXVz-A3Q1pWv2e2VKvE-Q) at [Stockholm University](https://www.google.com/url?q=https%3A%2F%2Fwww.su.se%2Fenglish%2F&sa=D&sntz=1&usg=AFQjCNH634lSc1DFG9lS7sxkSNEL62Sj_A). My current [research](https://www.maryamkhaqan.com/research) involves moonshine and related aspects of number theory.
