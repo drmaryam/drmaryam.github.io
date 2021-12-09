@@ -1,7 +1,7 @@
 
 Access notes for my Group representation Theory class here: 
 
-1. [Maryam](Khaqan_CIRTL Completion Fall 201960.pdf)
+1. [Maryam](/NewFolder/)
 2. [Lecture 2](Khaqan-ResearchStatement-October.pdf)
 
 
