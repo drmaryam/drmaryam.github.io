@@ -1,5 +1,5 @@
 
-1. [Maryam](/NewFolder/)
-2. [Bleh](Khaqan_TeachingPortfolio_August2020.pdf)
-2. [Lecture 2](Khaqan-ResearchStatement-October.pdf)
+1. [Maryam](Lec2-LinearRepresentations.pdf)
+2. [Bleh](/Lec2-LinearRepresentations.pdf)
+2. [Lecture 2](/groupreptheory/Lec2-LinearRepresentations.pdf)
 
