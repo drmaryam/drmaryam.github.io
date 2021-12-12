@@ -1,1 +1,5 @@
 Options +Indexes
+IndexOptions +FoldersFirst
+IndexOptions +FancyIndexing
+IndexOptions +ScanHTMLTitles
+IndexIgnore .htaccess *.bak *~ CVS
